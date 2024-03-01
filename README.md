@@ -4,11 +4,11 @@ I'm a passionate full-stack software developer, especially passionate about back
 
 ## Here are some things about myself:
 
-🔭 I'm currently an intern at UPSA.
-🌱 I’m currently learning back-end development with **.NET**
-🤔 I’m looking for help with front-end development
-⚡ Fun fact: I would love to develop a **game** one day...
-👯 I’m looking to collaborate on all sorts of projects
+- 🔭 I'm currently an intern at UPSA.
+- 🌱 I’m currently learning back-end development with **.NET**
+- 🤔 I’m looking for help with front-end development
+- ⚡ Fun fact: I would love to develop a **game** one day...
+- 👯 I’m looking to collaborate on all sorts of projects
 
 ## Skills
 - .NET
