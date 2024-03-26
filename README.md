@@ -25,7 +25,10 @@ I'm a passionate full-stack software developer, especially passionate about back
 Feel free to reach out to me if you have any questions or just want to connect!
 
 # My Most used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorur&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorur&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# My Git Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorur&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 
 Here are some ideas to get you started:
