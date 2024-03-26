@@ -23,6 +23,9 @@ I'm a passionate full-stack software developer, especially passionate about back
 - LinkedIn: https://www.linkedin.com/in/jorge-urioste-094031255/
 
 Feel free to reach out to me if you have any questions or just want to connect!
+
+# My Most used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorur&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
